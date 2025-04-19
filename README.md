@@ -79,7 +79,7 @@ This project focuses on cleaning, analyzing, and visualizing Zomato restaurant d
 ## 🗺️ Visualization Samples
 Folium maps showing cuisine spread and order density
 
-📧 Contact
+## 📧 Contact
 Palla Srija
 Email: srijapalla01@gmail.com
 GitHub: @Srijareddy01
