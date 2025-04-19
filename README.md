@@ -70,11 +70,11 @@ This project focuses on cleaning, analyzing, and visualizing Zomato restaurant d
    pip install pandas numpy matplotlib seaborn folium
    jupyter notebook Zomato_Bangalore_Analysis.ipynb
 ## 🧹 Preprocessing Steps
-Removed duplicate entries and null values
-Converted columns like approx_costfor_two_people to numeric
-Binary encoded online_order and book_table columns
-Cleaned rate column (removed /5, converted to float)
-Merged with coordinate dataset using location
+-Removed duplicate entries and null values
+-Converted columns like approx_costfor_two_people to numeric
+-Binary encoded online_order and book_table columns
+-Cleaned rate column (removed /5, converted to float)
+-Merged with coordinate dataset using location
 
 ## 🗺️ Visualization Samples
 Folium maps showing cuisine spread and order density
